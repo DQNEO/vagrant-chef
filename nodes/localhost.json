@@ -2,6 +2,9 @@
   "run_list": [
     "editor",
 
+    "nginx",
+    "php-fpm",
+
     "hello"
   ],
 
